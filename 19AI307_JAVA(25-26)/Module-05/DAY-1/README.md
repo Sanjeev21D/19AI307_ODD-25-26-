@@ -25,8 +25,8 @@ Close the BufferedReader and handle any possible IOException.
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Sri hari R
-RegisterNumber: 212223040202
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
