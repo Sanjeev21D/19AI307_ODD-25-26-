@@ -25,8 +25,8 @@ Print each processed result and finally shut down the executor service.
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: Sri hari r
-RegisterNumber: 212223040202
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
