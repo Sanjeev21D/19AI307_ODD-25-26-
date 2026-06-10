@@ -38,8 +38,8 @@ End the program.
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Sri hari R 
-RegisterNumber: 212223040202  
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
