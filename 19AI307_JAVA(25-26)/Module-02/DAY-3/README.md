@@ -39,8 +39,8 @@ End the program.
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Sri Hari R 
-RegisterNumber:  212223043202
+Developed by: Sanjeev D
+RegisterNumber:  212223040185
 */
 ```
 
