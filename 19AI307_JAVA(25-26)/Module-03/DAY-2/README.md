@@ -25,8 +25,8 @@ Call the sound() method to demonstrate runtime polymorphism
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Sri Hari R
-RegisterNumber:  212223043202
+Developed by: Sanjeev D
+RegisterNumber:  212223040185
 */
 ```
 
