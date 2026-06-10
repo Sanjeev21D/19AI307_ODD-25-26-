@@ -35,8 +35,8 @@ Display the final score based on game type.
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: Sri Hari R 
-RegisterNumber: 212223040202
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
