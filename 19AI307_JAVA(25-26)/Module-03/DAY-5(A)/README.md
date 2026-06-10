@@ -22,8 +22,8 @@ Call the inner class method.
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Sri hari R
-RegisterNumber: 212223040202
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
