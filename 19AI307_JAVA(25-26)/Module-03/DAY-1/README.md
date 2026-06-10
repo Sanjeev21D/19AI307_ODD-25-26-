@@ -28,8 +28,8 @@ For each customer, calculate and display the final price (and cashback for premi
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Sri Hari R 
-RegisterNumber: 212223043202
+Developed by: Sanjeev D
+RegisterNumber: 212223040185
 */
 ```
 
