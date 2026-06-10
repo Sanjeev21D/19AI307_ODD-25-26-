@@ -33,8 +33,8 @@ Display the prediction.
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Sri hari r
-RegisterNumber:  212223043202
+Developed by: Sanjeev D
+RegisterNumber:  212223040185
 */
 ```
 
