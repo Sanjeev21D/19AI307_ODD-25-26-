@@ -27,8 +27,8 @@ Print the thread’s priority, updated name, and full thread information.
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: Sri hari R
-RegisterNumber:  212223040202
+Developed by: Sanjeev D
+RegisterNumber:  212223040185
 */
 ```
 
